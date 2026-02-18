@@ -1,0 +1,11 @@
+# Microsoft Access Lock and Temp Files
+*.laccdb
+*.ldb
+*.tmp
+*~*
+
+# OS & Editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
